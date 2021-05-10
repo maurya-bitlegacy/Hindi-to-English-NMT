@@ -4,7 +4,7 @@ Hindi to English Neural Machine Translation.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Using Google Colab with GPU runtime is recommended. 
+Using Google Colab with GPU runtime is recommended. Link to the files needed: https://drive.google.com/drive/u/0/folders/1w5Wn1YSpJHNgecwCmwXrbmpuAziuyQSx
 
 
 Available models:
