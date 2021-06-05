@@ -6,7 +6,7 @@ Using Google Colab with GPU runtime is recommended. Link to the files needed: ht
 
 Available models:
 1. Seq2Seq (LSTM) with uni-directional bi-layer (Encoder and Decoder), with single context vector fed to initial time-step of Decoder.
-2. 
+
 <a href="https://colab.research.google.com/drive/1Sto43hDfcJFrb1C7fWpRxVmyLnUKUqv4?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
