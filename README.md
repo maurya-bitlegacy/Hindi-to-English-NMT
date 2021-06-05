@@ -17,7 +17,7 @@ Available models:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-3. Seq2Seq (GRU) with with bi-directional Encoder and Uni-directional Decoder with Attention Mechanism
+3. Seq2Seq (GRU) with with bi-directional uni-layer Encoder and Uni-directional uni-layer Decoder with Attention Mechanism
 
 <a href="https://colab.research.google.com/drive/1rChM3nAflAQ3mMOTTne4R8vGjwK4sIss?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
